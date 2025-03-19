@@ -2,18 +2,13 @@
 
 A Computer Science student ay University Of Saint Louis Tuguegarao. 
 
-
-📫 How to reach me: aiyan.tuala@gmail.com
+- 🌱 I’m currently learning on how to be a programmer :<
+-  📫 How to reach me: aiyan.tuala@gmail.com
+- ⚡ Fun fact: 
 <!--
 **aiyanm/aiyanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- ⚡ Fun fact: ...
 -->
