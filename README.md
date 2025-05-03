@@ -2,7 +2,7 @@
 
 A Computer Science student ay University Of Saint Louis Tuguegarao. 
 
-- 🌱 I’m currently learning on how to be a programmer :<
+- 🌱 I’m currently learning on how to be a programmer <:
 -  📫 How to reach me: aiyan.tuala@gmail.com
 - ⚡ Fun fact: 
 <!--
